@@ -1,0 +1,9 @@
+keras
+tensorflow
+keras-tuner
+pandas
+numpy
+
+matplotlib
+flask
+gevent
